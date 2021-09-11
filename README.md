@@ -1,2 +1,2 @@
 # Menu
-contains a menu with three items aligned horizontally.
+Contains a menu with three items aligned horizontally.
